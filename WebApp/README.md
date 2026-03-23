@@ -9,8 +9,8 @@ It combines a Python backend for analysis and a React frontend for visualization
 ## Repository
 
 ```bash
-git clone https://github.com/doha-nekro/mitm-detection-project.git doha-nekro
-cd mitm-detection-project
+git clone https://github.com/doha-nekro/Intrusion-Detection-System-MITM.git doha-nekro
+cd Intrusion-Detection-System-MITM
 ```
 
 ## Requirements
