@@ -1,23 +1,24 @@
-# Intrusion Detection System (MITM)
+# Intrusion Detection System (MITM) 🛡️
 
-This project is a web application for intrusion detection on network traffic.
-It combines a Python backend for analysis and a React frontend for visualization, with:
-- Batch CSV analysis
-- Real-time monitoring via WebSocket
-- Threat scoring and alert logs
+[![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/) [![Node.js](https://img.shields.io/badge/Node.js-18+-green)](https://nodejs.org/) [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-## Repository
+A **full-stack web application** for detecting Man-in-the-Middle (MITM) intrusions in network traffic. Combines a **Python backend** for analysis with a **React frontend** for visualization.
 
+---
+
+##  Features
+-  Batch CSV analysis of network data  
+-  Real-time monitoring via WebSocket  
+-  Threat scoring and alert logs  
+
+---
+
+##  Repository
 ```bash
-git clone https://github.com/doha-nekro/Intrusion-Detection-System-MITM.git doha-nekro
+git clone https://github.com/doha-nekro/Intrusion-Detection-System-MITM.git Intrusion-Detection-System-MITM
 cd Intrusion-Detection-System-MITM
 ```
-
-## Requirements
-
-- Python 3.10+
-- Node.js 18+
-
+---
 ## Run (quick start on Windows)
 
 ```bash
