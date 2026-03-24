@@ -6,7 +6,7 @@
 
 ## Description
 
-This project presents an ** Network-based Intrusion Detection System (NIDS)** designed to detect **Man-In-The-Middle (MITM) attacks** in **Industrial IoT (IIoT) networks**. Leveraging **Machine Learning**, the system analyzes network traffic and flags suspicious behavior, helping secure critical industrial environments.
+This project presents an **Network-based Intrusion Detection System (NIDS)** designed to detect **Man-In-The-Middle (MITM) attacks** in **Industrial IoT (IIoT) networks**. Leveraging **Machine Learning**, the system analyzes network traffic and flags suspicious behavior, helping secure critical industrial environments.
 
 The project implements a complete **data science and deployment workflow**, including:
 
